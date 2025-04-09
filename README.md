@@ -129,9 +129,8 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
   *                        opensource.org/licenses/BSD-3-Clause
   *
   ******************************************************************************
-  */
-/* USER CODE END Header */
-/* Includes ------------------------------------------------------------------*/
+  
+```
 #include "main.h"
 #include "stdio.h"
 #if defined (__ICCARM__) || defined (_ARMCC_VERSION)
@@ -192,7 +191,7 @@ PUTCHAR_PROTOTYPE {
 	return ch;
 }
 
-
+```
 
 
 
